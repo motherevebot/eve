@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dexscreener.com/cms/images/UIt8mU7dHi9GiTLf?width=800&height=800&quality=90" width="120" height="120" style="border-radius:24px" />
+  <img src="https://pbs.twimg.com/profile_images/2026701644252196866/ARD7970b_400x400.jpg" />
 </p>
 
 <h1 align="center">Eve — Autonomous Token Agent Engine</h1>
@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://x.com/TheMother_Eve">𝕏 Twitter</a> ·
-  <a href="https://solscan.io/tx/4AMMKSEbf4DAGLFEyBLJzJjMfzXn4DHkAJHaSpxxHcFoyKJgr5bD4DPCXb1fRpXo2Zzgqeh6ADPCr1hsHvja5Ptu">Solscan</a>
 </p>
 
 ---
