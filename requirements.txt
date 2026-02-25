@@ -1,0 +1,14 @@
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+aiosqlite
+alembic
+pydantic-settings
+redis
+httpx
+python-multipart
+cryptography
+python-jose[cryptography]
+solders
+solana
